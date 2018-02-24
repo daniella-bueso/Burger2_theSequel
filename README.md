@@ -25,6 +25,6 @@ Lastly, run the node server locally
 Now, open the local application on port 8080 at the URL: http://localhost:8080/
 
 ## Demo
-To use the application, click [here] (https://burger2-thesequel.herokuapp.com/burgers)
+To use the application, click [here](https://burger2-thesequel.herokuapp.com/burgers)
 
 ![BurgerApp](public/assets/images/demo.png)
